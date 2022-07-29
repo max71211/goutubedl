@@ -26,7 +26,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/wader/goutubedl"
+	"github.com/max71211/goutubedl"
 )
 
 func main() {
